@@ -133,10 +133,3 @@ Interactive sliders → Click 'Predict Price' → Get house value in dollars
 
 ---
 
-## 📌 Next Steps
-
-- Add CSV upload for batch prediction
-- Add visualizations (e.g., location-based heatmaps)
-- Try other models like Random Forest or XGBoost
-- Move to next project: **Iris Classification**
-
